@@ -1,0 +1,15 @@
+{
+  "name": "webgl-sandiegojs-flying-logo",
+  "version": "0.0.1",
+  "description": "Lightning talk slides and example for San Diego Monthy JavaScript Meetup.",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "Antonio Gomez (hello@antoniogomez.me)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
