@@ -8,7 +8,7 @@ This document explain how to download dependencies and seve this example.
 
 ### Example
 
-http://projects.antoniogomez.me/webgl-and-threejs/
+http://portfolio.antoniogomez.me/webgl-and-threejs/
 
 ## Getting Started
 
